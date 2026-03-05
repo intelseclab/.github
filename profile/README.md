@@ -28,36 +28,42 @@ IntelSecLab is a cybersecurity-focused research and development organization ded
 <tr>
 <td width="50%">
 
-**🔍 Open Source Intelligence (OSINT)** Automated collection, enrichment, and analysis of publicly available data for threat and investigative workflows.
+**🔍 Open Source Intelligence (OSINT)**
+Automated collection, enrichment, and analysis of publicly available data for threat and investigative workflows.
 
 </td>
 <td width="50%">
 
-**🛡️ Vulnerability Assessment** Scanning frameworks, exploitation tooling, and proof-of-concept research for responsible disclosure.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🔬 Reverse Engineering & Malware Analysis** Static and dynamic analysis tools for understanding malicious code and adversary techniques.
-
-</td>
-<td width="50%">
-
-**⚔️ Red & Blue Team Tooling** Offensive infrastructure and detection engineering utilities built for realistic operational environments.
+**🛡️ Vulnerability Assessment**
+Scanning frameworks, exploitation tooling, and proof-of-concept research for responsible disclosure.
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-**🧠 Threat Intelligence Automation** Pipelines for IOC tracking, CTI enrichment, and automated reporting at scale.
+**🔬 Reverse Engineering & Malware Analysis**
+Static and dynamic analysis tools for understanding malicious code and adversary techniques.
 
 </td>
 <td width="50%">
 
-**🔧 Security Research Frameworks** Modular utilities and libraries designed to accelerate security research and reproducible analysis.
+**⚔️ Red & Blue Team Tooling**
+Offensive infrastructure and detection engineering utilities built for realistic operational environments.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🧠 Threat Intelligence Automation**
+Pipelines for IOC tracking, CTI enrichment, and automated reporting at scale.
+
+</td>
+<td width="50%">
+
+**🔧 Security Research Frameworks**
+Modular utilities and libraries designed to accelerate security research and reproducible analysis.
 
 </td>
 </tr>
@@ -92,4 +98,6 @@ We welcome contributions from practitioners at all levels. Whether you have a to
 
 <div align="center">
 
-<sub>**IntelSecLab** · Open-Source Cybersecurity · Built
+<sub>**IntelSecLab** · Open-Source Cybersecurity · Built for the security community</sub>
+
+</div>
