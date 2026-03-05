@@ -1,4 +1,3 @@
-```
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/intelseclab/.github/main/profile/alice.png" width="160"/>
@@ -102,4 +101,3 @@ We welcome contributions from practitioners at all levels. Whether you have a to
 <sub>**IntelSecLab** · Open-Source Cybersecurity · Built for the security community</sub>
 
 </div>
-```
