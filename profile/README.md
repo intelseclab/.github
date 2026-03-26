@@ -71,15 +71,6 @@ Modular utilities and libraries designed to accelerate security research and rep
 
 <br>
 
-## Who We Serve
-
-| Audience | Use Case |
-|----------|----------|
-| Threat Analysts | Intelligence gathering, IOC triage, attribution workflows |
-| Red Teams | Offensive tooling, evasion research, C2 development |
-| Blue Teams | Detection rules, log analysis, defensive automation |
-| Security Researchers | Vulnerability research, malware analysis, PoC development |
-| DFIR Professionals | Forensic utilities, evidence collection, incident triage |
 
 <br>
 
