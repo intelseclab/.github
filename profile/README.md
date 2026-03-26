@@ -16,7 +16,7 @@
 
 ## About
 
-IntelSecLab is a cybersecurity-focused research and development organization dedicated to building open-source tools for security professionals worldwide. Our work spans threat intelligence, offensive and defensive security, and digital forensics - engineered for reliability and real-world applicability.
+IntelSecLab is a cybersecurity-focused research and development organization dedicated to building open-source tools for security professionals worldwide.
 
 > *Securing tomorrow, one tool at a time.*
 
