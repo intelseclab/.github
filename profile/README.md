@@ -4,11 +4,15 @@
 
 # IntelSecLab
 
+```
+$ whoami
+> non-profit open-source security collective
+```
+
 **Cybersecurity Research & Open-Source Development**
 
-[![GitHub](https://img.shields.io/badge/GitHub-IntelSecLab-0075ca?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IntelSecLab)
-[![Status](https://img.shields.io/badge/Status-Active-2ea44f?style=for-the-badge)](https://github.com/IntelSecLab)
-[![License](https://img.shields.io/badge/License-Open%20Source-0075ca?style=for-the-badge)](https://github.com/IntelSecLab)
+[![GitHub](https://img.shields.io/badge/GitHub-IntelSecLab-000000?style=for-the-badge&logo=github&logoColor=00ff41)](https://github.com/IntelSecLab)
+[![Status](https://img.shields.io/badge/Status-Active-000000?style=for-the-badge&logoColor=00ff41)](https://github.com/IntelSecLab)
 
 </div>
 
@@ -16,21 +20,15 @@
 
 ## About
 
-IntelSecLab is a cybersecurity-focused research and development organization dedicated to building open-source tools for security professionals worldwide.
+A non-profit research collective. We love getting lost in the terminal, open-source culture, and keeping security research open to everyone.
 
-> *Securing tomorrow, one tool at a time.*
-
-<br>
-
+<img src="https://i.giphy.com/3o6Zt0hNCfak3QCqsw.webp"/>
 
 <br>
 
 ## Contributing
 
-We welcome contributions from practitioners at all levels. Whether you have a tool to share, a bug to report, or an idea to explore - there's a place for it here.
-
 - 📁 [Browse repositories](https://github.com/orgs/IntelSecLab/repositories)
-- 💬 [Start a discussion](https://github.com/IntelSecLab)
 - 🐛 [Open an issue](https://github.com/IntelSecLab)
 - 🔀 Submit a pull request
 
@@ -39,7 +37,5 @@ We welcome contributions from practitioners at all levels. Whether you have a to
 ---
 
 <div align="center">
-
-<sub>**IntelSecLab** · Open-Source Cybersecurity · Built for the security community</sub>
-
+<sub>IntelSecLab · Non-Profit · Open-Source</sub>
 </div>
